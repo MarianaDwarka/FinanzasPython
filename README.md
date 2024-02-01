@@ -10,6 +10,8 @@ Este repositorio contiene tres notebooks de Jupyter, cada uno dedicado a un aspe
   - **Herramientas**: Uso de `sklearn.decomposition` para implementar KernelPCA.
 - **Resultados**: Identificación de los principales componentes que influyen en el desempeño del Dow Jones.
 
+  ![]("sharpe.png")
+
 ## Notebook 2: Optimización de Portafolio con el Modelo de Markowitz
 
 - **Objetivo**: Aplicar el modelo de Markowitz para encontrar la combinación de activos que ofrece el mejor retorno ajustado por riesgo.
