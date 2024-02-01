@@ -10,7 +10,7 @@ Este repositorio contiene tres notebooks de Jupyter, cada uno dedicado a un aspe
   - **Herramientas**: Uso de `sklearn.decomposition` para implementar KernelPCA.
 - **Resultados**: Identificación de los principales componentes que influyen en el desempeño del Dow Jones.
 
-  ![](sharpe.png)
+  ![](PCA.png)
 
 ## Notebook 2: Optimización de Portafolio con el Modelo de Markowitz
 
@@ -23,6 +23,8 @@ Este repositorio contiene tres notebooks de Jupyter, cada uno dedicado a un aspe
     3. Optimización de Portafolio usando el índice de Sharpe.
     4. Generación de 100,000 portafolios aleatorios para visualizar la frontera eficiente.
 - **Resultados**: Identificación del portafolio óptimo en términos de retorno y riesgo.
+
+ ![](sharpe.png)
 
 ## Notebook 3: Simulación de Portafolio y Cálculo de VaR con Montecarlo
 
@@ -39,3 +41,5 @@ Este repositorio está diseñado para ser interactivo y educativo. Se recomienda
 - Clonar el repositorio y ejecutar los notebooks en un entorno local con Jupyter.
 - Leer los comentarios en cada notebook para entender los pasos y metodologías utilizadas.
 - Experimentar con diferentes datos y parámetros para explorar variaciones en los resultados.
+
+ ![](montecarlo.png)
