@@ -34,6 +34,8 @@ Este repositorio contiene tres notebooks de Jupyter, cada uno dedicado a un aspe
   - **Cálculo de VaR**: Implementación tanto paramétrica como mediante simulaciones de Montecarlo para estimar las pérdidas potenciales bajo un nivel de confianza del 95% en un período de un año.
 - **Resultados**: Análisis detallado del VaR y las implicaciones para la gestión de riesgos de la cartera.
 
+ ![](montecarlo.png)
+
 ## Cómo Utilizar Este Repositorio
 
 Este repositorio está diseñado para ser interactivo y educativo. Se recomienda:
@@ -42,4 +44,3 @@ Este repositorio está diseñado para ser interactivo y educativo. Se recomienda
 - Leer los comentarios en cada notebook para entender los pasos y metodologías utilizadas.
 - Experimentar con diferentes datos y parámetros para explorar variaciones en los resultados.
 
- ![](montecarlo.png)
